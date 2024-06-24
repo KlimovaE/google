@@ -28,6 +28,6 @@ public class SeleniumTests {
         elementById.submit();
 
         // Закрытие браузера
-        //driver.quit();
+        driver.quit();
     }
 }
